@@ -45,8 +45,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em desenv
 
 ### 📊 Estatísticas de Código
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Marllinnnnnn&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marllinnnnnn&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Marllinnnnnn&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marllinnnnnn&layout=compact&theme=tokyonight" />
 </p>
 
 ---
